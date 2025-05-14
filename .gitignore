@@ -1,0 +1,56 @@
+# dependencies
+webapp/node_modules
+webapp/.pnp
+webapp/.pnp.*
+webapp/.yarn/*
+!webapp/.yarn/patches
+!webapp/.yarn/plugins
+!webapp/.yarn/releases
+!webapp/.yarn/versions
+
+# testing
+webapp/coverage
+
+# next.js
+webapp/.next/
+webapp/out/
+
+# production
+webapp/build
+
+# misc
+webapp/.DS_Store
+webapp/*.pem
+
+# debug
+webapp/npm-debug.log*
+webapp/yarn-debug.log*
+webapp/yarn-error.log*
+webapp/.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+webapp/.env*
+
+# vercel
+webapp/.vercel
+
+# typescript
+webapp/*.tsbuildinfo
+webapp/next-env.d.ts
+
+# github workflows (if not needed)
+webapp/.github/*
+
+
+# ignore specific file types inside report folder
+/report/*.xml
+/report/*.out
+/report/*.lot
+/report/*.log
+/report/*.lof
+/report/*.ist
+/report/*.glo
+/report/*.blg
+/report/*.bbl
+/report/*.aux
+/report/*.acn
