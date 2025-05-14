@@ -40,7 +40,7 @@ export function LandingHeader() {
           /> */}
            <Logo
             className="h-14 w-14"
-            logoType={isScrolled}
+            logoType={!isScrolled}
           />
           {/* <span className="font-bold text-lg">Okra</span> */}
         </div>
