@@ -1,7 +1,9 @@
 "use client";
 
-import { useState, useEffect } from "react";
-import { BellIcon, Search, Sun, Moon } from "lucide-react";
+// import { useState, useEffect } from "react";
+import { BellIcon, Search, 
+  // Sun, Moon
+ } from "lucide-react";
 import { User } from "@/lib/types";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -11,20 +13,20 @@ import {
   DropdownMenuContent,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import { useTheme } from "next-themes";
+// import { useTheme } from "next-themes";
 
 interface DashboardHeaderProps {
   user: User;
 }
 
 export function DashboardHeader({ user }: DashboardHeaderProps) {
-  const [mounted, setMounted] = useState(false);
-  const { theme, setTheme } = useTheme();
+  // const [mounted, setMounted] = useState(false);
+ // const { theme, setTheme } = useTheme();
 
   // Ensure theme is client-side
-  useEffect(() => {
-    setMounted(true);
-  }, []);
+  // useEffect(() => {
+  //   setMounted(true);
+  // }, []);
 
   return (
     <header className="sticky top-0 z-10 bg-white dark:bg-gray-800 border-b border-gray-200 dark:border-gray-700">
@@ -49,7 +51,7 @@ export function DashboardHeader({ user }: DashboardHeaderProps) {
         </div>
 
         <div className="flex items-center space-x-4">
-          {mounted && (
+          {/* {mounted && (
             <Button
               variant="ghost"
               size="icon"
@@ -63,7 +65,7 @@ export function DashboardHeader({ user }: DashboardHeaderProps) {
               )}
               <span className="sr-only">Toggle theme</span>
             </Button>
-          )}
+          )} */}
 
           <DropdownMenu>
             <DropdownMenuTrigger asChild>

@@ -7,11 +7,11 @@ import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { useState, useEffect } from "react";
 import { cn } from "@/lib/utils";
 import { Logo } from "@/components/ui/logo";
-import { useTheme } from "next-themes";
+// import { useTheme } from "next-themes";
 
 export function LandingHeader() {
   const [isScrolled, setIsScrolled] = useState(false);
-  const { theme } = useTheme();
+  // const { theme } = useTheme();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -34,9 +34,13 @@ export function LandingHeader() {
     >
       <div className="container flex items-center justify-between">
         <div className="flex items-center gap-2">
-          <Logo
+          {/* <Logo
             className="h-14 w-14"
             logoType={isScrolled ? theme === "dark" : true}
+          /> */}
+           <Logo
+            className="h-14 w-14"
+            logoType={isScrolled}
           />
           {/* <span className="font-bold text-lg">Okra</span> */}
         </div>
