@@ -1,0 +1,7 @@
+names:
+  0: ripe
+  1: rotten
+  2: unripe
+path: /content/combined_dataset
+train: train/images
+val: val/images
