@@ -1,6 +1,6 @@
 # Okra!
 
-Important! Read the report [here](https://drive.google.com/file/d/14WOQT_5DZgLMT4Ebd3yOAIp8oQwYzbdG/view?usp=sharing)!
+Important! Read the report [here](https://drive.google.com/file/d/14WOQT_5DZgLMT4Ebd3yOAIp8oQwYzbdG/view?usp=sharing)
 
 It is also located inside this repo at [here](https://github.com/JoshuaOlubori/Okra/blob/main/report/OkraMain.pdf)
 
@@ -16,6 +16,8 @@ Its stand-out feature? An AI-powered tool for predicting freshness and quantity 
 - Ultralytics framework
 - Gradio for web interface
 - Python 3.8+
+
+See our webapp [here](https://okra-ai.vercel.app/)!
 
 ## 📁 Project Structure
 
