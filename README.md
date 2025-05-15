@@ -1,5 +1,9 @@
 # Okra!
 
+Important! Read the report [here](https://drive.google.com/file/d/14WOQT_5DZgLMT4Ebd3yOAIp8oQwYzbdG/view?usp=sharing)!
+
+It is also located inside this repo at [here](https://github.com/JoshuaOlubori/Okra/blob/main/report/OkraMain.pdf)
+
 ## Project Overview
 In Nigeria, millions of tons of food go to waste every year; not because of poor harvests, but because they never make it from farms to markets. To tackle these losses, we present Okra: a data-driven digital marketplace and logistics platform built to seamlessly connect farmers, buyers, and logistics providers in real time.  
 
