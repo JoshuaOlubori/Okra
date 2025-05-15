@@ -7,6 +7,7 @@ Its stand-out feature? An AI-powered tool for predicting freshness and quantity 
 
 ## 🔧 Tech Stack
 - NextJS for the web app
+- Tableau (click [here](https://public.tableau.com/views/PostHarvestLossinNigeria/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to visit dashboard)
 - YOLOv11s for object detection
 - Ultralytics framework
 - Gradio for web interface
