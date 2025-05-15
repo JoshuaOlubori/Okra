@@ -1,8 +1,6 @@
 \babel@toc {english}{}\relax 
 \contentsline {frontmatter}{List of Figures}{xi}{listoffigures}%
 \contentsline {frontmatter}{List of Tables}{xiv}{listoftables}%
-\contentsline {frontmatter}{Glossary}{xvii}{glossary}%
-\contentsline {frontmatter}{Acronyms}{xx}{acronym}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Analysis of Post-Harvest Losses in Nigeria}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Impact on Youth and National Economy}{5}{section.1.2}%
@@ -18,20 +16,20 @@
 \contentsline {subsection}{\numberline {3.1.2}Logistics Integration}{12}{subsection.3.1.2}%
 \contentsline {subsection}{\numberline {3.1.3}AI-Powered Insights}{13}{subsection.3.1.3}%
 \contentsline {subsection}{\numberline {3.1.4}Youth-led Agribusiness Empowerment}{13}{subsection.3.1.4}%
-\contentsline {section}{\numberline {3.2}Screens}{13}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Data Strategy}{14}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Image Data Collection}{14}{subsection.3.3.1}%
+\contentsline {section}{\numberline {3.2}Screens}{14}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Data Strategy}{15}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Image Data Collection}{15}{subsection.3.3.1}%
 \contentsline {subsection}{\numberline {3.3.2}Data Labeling and Training}{15}{subsection.3.3.2}%
 \contentsline {subsection}{\numberline {3.3.3}Feedback Loop (Active Learning)}{15}{subsection.3.3.3}%
 \contentsline {section}{\numberline {3.4}Auxiliary data sources}{15}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Privacy and Governance}{15}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.1}Privacy and Governance}{16}{subsection.3.4.1}%
 \contentsline {section}{\numberline {3.5}OkraAI}{16}{section.3.5}%
 \contentsline {subsection}{\numberline {3.5.1}Dataset}{16}{subsection.3.5.1}%
 \contentsline {section}{\numberline {3.6}Data Split}{17}{section.3.6}%
 \contentsline {section}{\numberline {3.7}Model Training}{17}{section.3.7}%
 \contentsline {section}{\numberline {3.8}Deployment}{17}{section.3.8}%
 \contentsline {section}{\numberline {3.9}Confusion Matrix}{18}{section.3.9}%
-\contentsline {section}{\numberline {3.10}Training Progression}{18}{section.3.10}%
-\contentsline {section}{\numberline {3.11}F1-Confidence Curve}{19}{section.3.11}%
+\contentsline {section}{\numberline {3.10}Training Progression}{19}{section.3.10}%
+\contentsline {section}{\numberline {3.11}F1-Confidence Curve}{20}{section.3.11}%
 \contentsline {section}{\numberline {3.12}Deployment and Demo}{20}{section.3.12}%
-\contentsline {backmatter}{Bibliography}{23}{chapter*.22}%
+\contentsline {backmatter}{Bibliography}{24}{chapter*.22}%
